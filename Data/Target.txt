@@ -1,0 +1,14 @@
+CalendarYear;Category Name With Target;Office
+2012;Accessories 13;
+2012;Bikes 12;head office
+2012;Clothing 12;head office
+2013;Accessories 16;
+2013;Bikes 15;head office
+2013;Clothing 15;head office
+2014;Accessories 18;
+2014;Bikes 16;head office
+2014;Clothing 16;head office
+2015;Accessories 21;
+2015;Bikes 17;head office
+2015;Clothing 17*;head office
+*To be confirmed;

@@ -1,0 +1,22 @@
+Calendar Year;Category Name;Target Quantity
+2013;Bikes ;800000
+2014;Clothing ;820000
+2013;Clothing;750000
+2014;Bikes;870000
+2013;Accessories;840000
+2014;Accessories;920000
+2015;Accessories;1070000
+2015;Clothing;910000
+2015;Bikes;860000
+2016;N/A;1020000
+2016;Clothing;750000
+2016;Bikes;850000
+2010;Bikes;870000
+2010;Accessories;920000
+2010;Clothing ;820000
+2011;Accessories;1070000
+2011;Clothing;910000
+2011;Bikes;860000
+2012;Bikes;870000
+2012;Accessories;920000
+2012;Clothing ;820000
